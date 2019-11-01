@@ -1,9 +1,17 @@
 h1{
-  color:red;  
+  color:white;
+  text-align: center;
+  background-color: black
 }
-p{
- font-size: 25px;
- font-weight:100;
+h2{
+    color:cadetblue;
+    text-align: center;
+    background-color: greenyellow;
+}
+h3{
+    color: yellow;
 }
 
-
+body{
+    background-image: url("../images/haikei.jpg")
+}
